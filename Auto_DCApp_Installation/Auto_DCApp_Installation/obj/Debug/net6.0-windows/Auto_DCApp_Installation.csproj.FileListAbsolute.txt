@@ -1,0 +1,17 @@
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\bin\Debug\net6.0-windows\Auto_DCApp_Installation.exe
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\bin\Debug\net6.0-windows\Auto_DCApp_Installation.deps.json
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\bin\Debug\net6.0-windows\Auto_DCApp_Installation.runtimeconfig.json
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\bin\Debug\net6.0-windows\Auto_DCApp_Installation.dll
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\bin\Debug\net6.0-windows\Auto_DCApp_Installation.pdb
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.csproj.AssemblyReference.cache
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.Form1.resources
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.csproj.GenerateResource.cache
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.AssemblyInfoInputs.cache
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.AssemblyInfo.cs
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.csproj.CoreCompileInputs.cache
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.dll
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\refint\Auto_DCApp_Installation.dll
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.pdb
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\Auto_DCApp_Installation.genruntimeconfig.cache
+C:\Installation\Auto_DCApp_Installation\Auto_DCApp_Installation\obj\Debug\net6.0-windows\ref\Auto_DCApp_Installation.dll
